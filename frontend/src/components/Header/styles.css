@@ -18,3 +18,7 @@
  font-size: 20px;
  text-decoration: none;
 }
+
+.me-auto .navbar-nav{
+ margin: 20px;
+}

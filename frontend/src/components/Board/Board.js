@@ -45,7 +45,7 @@ function Board(props) {
           />
         ))}
         <Editable
-          text="+ Adicionar tarefa"
+          text="+ Adicionar Tarefa"
           placeholder="Digite o título da tarefa"
           displayClass="board_add-card"
           editClass="board_add-card_edit"
